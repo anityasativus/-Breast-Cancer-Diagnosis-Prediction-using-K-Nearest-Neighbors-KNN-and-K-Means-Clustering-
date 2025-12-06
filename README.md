@@ -31,13 +31,24 @@ The main goal was to apply basic machine learning steps and use two algorithms: 
 - Used **k = 5** neighbors.
 - Made predictions on the test data.
 ---
+### 5. Evaluation
+Printed these scores:
+- Accuracy  
+- Precision  
+- Recall  
+- F1 Score  
 
-### 5. Model Evaluation
-The following evaluation scores were printed:
-- **Accuracy**  
-- **Precision**  
-- **Recall**  
-- **F1 Score**
+Each shows how well the model predicted cancer types.
+
+## Summary
+- K-Means gives an idea of natural grouping.
+- KNN works well for diagnosis prediction.
+- Scaling and proper splitting helped improve performance.
+
+## Files
+- Dataset  
+- Notebook with all code  
+- README
 
 
 ---
