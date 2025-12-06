@@ -50,8 +50,3 @@ Each shows how well the model predicted cancer types.
 - Notebook with all code  
 - README
 
-
----
-
-## Summary
-- K-Means clustering gives
