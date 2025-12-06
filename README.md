@@ -2,7 +2,7 @@
 In this project, i worked with the Breast Cancer dataset to identify whether a given tumor is **Benign (0)** or **Malignant (1)**.  
 The main goal was to apply basic machine learning steps and use two algorithms: **K-Means** and **KNN**.
 ---
-## Steps I Followed
+## Steps i Followed
 
 ### 1. Dataset Preparation
 - Loaded the dataset inside Google Colab.
